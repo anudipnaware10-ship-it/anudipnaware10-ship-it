@@ -10,7 +10,7 @@ I'm a second-year Computer Engineering student passionate about software develop
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student at PICT, Pune
+- 🎓 Information Technology Student at PICT, Pune
 - 💻 Interested in Software Engineering and Backend Development
 - 🌱 Currently learning Java, Spring Boot and System Design
 - 🧠 Practicing Data Structures and Algorithms using C++
