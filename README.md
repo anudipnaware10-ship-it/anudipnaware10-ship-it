@@ -1,6 +1,6 @@
 # Hi, I'm Anudip Naware 👋
 
-### Computer Engineering Student | PICT, Pune
+### Information Technology Student | PICT, Pune
 
 **Aspiring Software Engineer | Java Developer | Problem Solver**
 
