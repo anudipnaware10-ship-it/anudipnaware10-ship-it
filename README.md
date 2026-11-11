@@ -53,6 +53,16 @@ A platform designed to connect alumni and students through professional networki
 
 **Tech Stack:** Java, Spring Boot, React.js, PostgreSQL
 
+Real-time chat and messaging.
+
+
+
+-Alumni mentorship program.
+-Job and internship posting portal.
+-Event management and reunions.
+-Notifications and announcements.
+-Alumni achievement tracking.
+
 ---
 
 ## 📚 DSA & Problem Solving
